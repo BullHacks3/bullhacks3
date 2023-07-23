@@ -1,19 +1,31 @@
-👋🏻 I'm B@kul Gupt@ (bullhacks3)
 
-Security engineer 🥷 by profession and life-long learner by choice !🚀
+<b><em>About Me</em></b>
 
-I’m currently working as a Product Security Engineer 👉 @LinkedIn.
+<p>
+  👋🏻 I'm B@kul Gupt@ (bullhacks3)
+</p>
 
-Nowadays, learning a lil bit about Application Security, DevSecOps (SAST/DAST/OWASP etc.), Product Security specifically from technical side, whereas on personal end exploring the path of mindfulness, meditation, minimalism and never ending journey of self-improvement.
+<p>
+<q>Security engineer 🥷 by profession and life long learner by choice !🚀</q>
 
-I'm a firm believer of:
+I’m currently working as a Product Security Engineer 👉 <a href="https://www.linkedin.com/in/bullhacks3/">@LinkedIn</a>. 
 
-👉 One percent principle (1.01^365 ~ 37.783)
-👉 Law of serendipity (Lady luck favors the one who tries)
-👉 An expert is one who knows more and more about less and less !!! by Butler
+Nowadays, learning a lil bit about <b>Application Security</b>, <b>DevSecOps</b> (SAST/DAST/OWASP etc.), <b>Product Security</b> specifically from technical side, whereas on personal end  exploring the path of <b>mindfulness, meditation, minimalism</b> and <em>never ending journey of self-improvement</em>.
+</p>
 
-Last, but not least, I'd love to:
+<p>I'm firm believer of:
+<ul>
+  👉 One percent principle (1.01^365 ~ 37.783)<br>
+  👉 Law of serendipity (Lady luck favors the one who tries)<br>
+  👉 An expert is one who knows more and more about less and less !!! <i>by Butler</i>
+</ul>
+</p>
 
-📕 Read non-fiction books (psychology, time-management, self-help) 📕
-🏸 Play badminton (Astrox Ability 01)🏸
-👉 Always open to new challenges and learnings ... 🗡️🛡️👈
+<p>
+Last but not the least, I'd love to:
+  <ul>
+  📕 Read non-fiction books (psychology, time-management, self-help) 📕 <br>
+  🏸 Playing badminton (Astrox Ability 01)🏸 <br>
+  👉 Always open to new challenges and learnings ... 🗡️🛡️👈
+  </ul>
+</p>
